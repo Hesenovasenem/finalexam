@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Mark",
+      "age": 12,
+      "country": "America",
+      "img": "./SCSS/images/children_3.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Jessa",
+      "age": 13,
+      "country": "France",
+      "img": "./SCSS/images/children_4.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Ben",
+      "age": 14,
+      "country": "Africa",
+      "img": "./SCSS/images/children_5.jpg"
+    },
+    {
+      "title": "Edward",
+      "age": "10",
+      "country": "  Russia",
+      "img": "./SCSS/images/children_1.jpg",
+      "id": 4
+    }
+  ],
+  "fav": [
+    {
+      "id": 2,
+      "title": "Jessa",
+      "age": 13,
+      "country": "France",
+      "img": "./SCSS/images/children_4.jpg"
+    }
+  ]
+}
